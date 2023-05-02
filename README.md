@@ -1,5 +1,5 @@
 # Aula GIt e Github
-## texto
+# http://gg.gg/emoji_1
 ### texto :bear:
 * 1
 * 2
