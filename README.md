@@ -1,6 +1,6 @@
 # Aula GIt e Github
 ## texto
-### texto
+### texto :bear:
 * 1
 * 2
 * 3
